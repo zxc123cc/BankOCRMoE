@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zxc123cc@root@ssh-1f9702dbc66344013ffb884419665816.default@ssh.virtaicloud.com:30022 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zxc123cc@root@ssh-c2f8e6f7f5a740e5b753357c9bb2c664.default@ssh.virtaicloud.com:30022 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zxc123cc@root@ssh-c2f8e6f7f5a740e5b753357c9bb2c664.default@ssh.virtaicloud.com:30022 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zxc123cc@root@ssh-f431bec7a84e9c4d5900376c93049003.default@ssh.virtaicloud.com:30022">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
